@@ -1,0 +1,69 @@
+
+ span#arrows { 
+	visibility: hidden;
+	} 
+/* Slide show buttons */
+/* absolute with respect to journalElement Container */
+
+#next {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+
+	background:url(../images/arrow-right.png) no-repeat;
+	
+	background-color: transparent;
+	
+}
+#prev {
+		position: absolute;	
+	width: 32px;
+	height: 32px;
+
+	background: url(../images/arrow-left.png) no-repeat;	
+	
+	background-color: transparent;
+	
+}
+
+
+ .photo {
+
+
+    background-repeat: no-repeat;
+
+   background-size: contain;
+ background-position: center;
+ 
+    overflow:hidden;
+}
+
+ p { 
+
+ 	font: italic 1.2em "Times New Roman", Times, serif;
+
+padding: 1em 1em 1em 1em;
+	}  
+.text { 
+overflow-y: auto;
+height: 180px;
+
+ 	
+	}  
+.photo-container {
+	border: 5px solid ;
+  	border-radius: 25px;
+}
+		
+ #slide-container {
+	position: absolute; 
+ 	margin-right: auto;
+	margin-left: auto;
+	
+	top:20px;
+/*	background:rgba(0,0,0,0.3); defined in nl-style.php */
+
+ 
+}
+/*
+defined in js */

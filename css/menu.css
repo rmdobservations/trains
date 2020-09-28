@@ -1,0 +1,135 @@
+/* consolidating css styles */
+
+
+body {background-color: #abcdef;
+
+font-family: sans-serif;
+margin-left: auto;
+margin-right: auto;
+
+width: 100%;
+padding-top: 8px;
+padding-bottom: 24px;
+padding-left:24px;
+padding-right: 24px;
+
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table th {
+font-weight: bold;
+
+color: orange;
+
+}
+
+#featureinfo {
+font-weight: bold;
+font-size: 32px;
+color: orange;
+
+}
+#slide-container {
+background-color: pink;
+}
+h2 {
+font-weight: bold;
+font-size: 32px;
+color: orange;
+}
+/* https://stackoverflow.com/a/34641889*/
+section {
+  display: inline-block;
+  width: 70%;
+ /* height: 300px;
+  border: 1px dashed green;*/
+}
+ul.menuItems {
+display: block; 
+}
+aside {
+  display: inline-block;
+  width: 25%;
+ /* height: 400px;
+  border: 1px dashed blue;*/
+  float: right;
+  padding-right: 25px;
+}  
+   /* drop down menu has to appear over the map, not under */
+
+/* color is in nl_style.php */
+.menuHeading {
+		padding:8px 7px 8px 7px; 
+
+}
+/*header {
+color: red;
+}*/
+/*nav span {
+		background-color: yellow;
+				color:green;
+				}*/
+				
+.dropdown {
+    position: relative;
+    display: inline-block;
+    z-index: 1; /* allows dropdown to appear over map */
+}
+
+.navigation  {
+		margin:0; 
+		padding:0; 
+		list-style:none;
+		}	
+.navigation  li {
+	/*background-color:red;*/
+		background-color: yellow;
+		float:left;			
+		width:150px; 
+		position:relative; 
+
+		display:block;  	
+		padding:8px 7px 8px 7px; 
+		text-decoration:none; 
+	/*	border-top:4px solid #abcdef;*/
+		text-align:center; 
+		}
+	
+	.menuClass  {
+	/*background-color:red;*/
+		float:left;			
+		width:150px; 
+		position:relative; 
+
+		display:block;  	
+		/*padding:8px 0px 8px 0px; */
+		text-decoration:none; 
+	/*	border-top:4px solid #abcdef;*/
+		text-align:center; 
+		}
+.navigation  ul {
+		position:absolute; 
+		left:0; 
+		display:none; 
+		padding:0; 
+		list-style:none;
+	/*	border-bottom:3px solid red;*/
+		text-decoration:none; 
+	}
+	
+.navigation  li span:hover {
+		/*background-color:orange;*/
+	}
+
+
+		
+.navigation  ul li {
+		width:150px; 
+		float:left; 
+		border-top:none;
+	}
+		
+	

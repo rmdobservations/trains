@@ -1,0 +1,40 @@
+/* http://stackoverflow.com/questions/256811/how-do-you-create-non-scrolling-div-at-the-top-of-an-html-page-without-two-sets
+*/
+html {
+  margin: 0;
+  padding: 0;
+}
+/* overvlow hidden means Disable scrollbars and ensure that the body fills the window */
+body {
+	margin: 0;
+  	padding: 0;
+ 	overflow: hidden;  
+   width: 100%;
+   height: 100%;
+     }
+ /* drop down menu has to appear over the map, not under */
+.map_element {
+
+	z-index: -1;
+}
+
+#map_element  {
+	position: absolute;
+
+width: 100%;
+height:100%;
+  
+    }
+
+	
+#coordinates {
+    color: red;
+position:absolute;
+bottom: 20px;
+right: 300px;
+z-index: 10;
+   }  
+   
+ .olControlZoom {
+ 	display: none;
+ }  
