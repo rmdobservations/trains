@@ -1,0 +1,41 @@
+{
+	"_comment": "Menu structure according to type of route. icons defined in ",
+	"mapLabel": "14 september NOCACHE",
+	"basemap": "OSM", 
+	"mapCenterLonLat": [6.718139648437498,52.47357958606801],
+	"mapZoom": 9,
+	"rootDataDirectory": "./geodata/",
+	"rootImageDirectory": "./images/",
+	"menuheading": [
+		{
+			"heading": "Trains",
+			"filenames": ["wpt_NewNorthEast.gpx","wpt_BlauwNet.gpx","wpt_MerwedeLingelijnMap.gpx","wpt_NS_Northwest.gpx"],
+			"labels": ["NS NE","BlaueNet","MerwedeLingelijn","NS NW"]
+		},
+		{
+			"heading": "Overnight",
+			"filenames": ["wpt_camping.gpx","wpt_huts.gpx"],
+			"labels": ["Camping","Huts"]
+		},
+			{
+			"heading": "Trails",
+			"filenames": ["rt_sp-2-01-almelo-station-tubbergen.gpx","rt_sp-2-03-ootmarsum-oldenzaal-station.gpx","rt_law-16-16-bemmel-de-pas-nijmegen-keizer-traianusplein.gpx"],
+			"labels": ["Almelo-Tubber","Ootmarsum-oldenzaal","Nijmegen"]
+		},
+			{
+			"heading": "Pieter Route",
+			"filenames": ["rt_Pieterpad-0km-238.gpx","rt_Pieterpad-238km-500.gpx","wpt_Pieterpad-0km-238.gpx","wpt_Pieterpad-238km-500.gpx"],
+			"labels": ["north half","south half","north","south"]
+		},
+			{
+			"heading": "other trips",
+			"filenames": ["20150711_Route.gpx","20150713_Route.gpx","sallanse-heuvelrug2016.gpx"],
+			"labels": ["11 W","13 W","SH"]
+		},
+			{
+			"heading": "POI",
+			"filenames": ["wpt_poi_east.gpx"],
+			"labels": ["wold"]
+		}
+	]
+}
