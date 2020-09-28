@@ -18,21 +18,6 @@
 			"labels": ["Camping","Huts"]
 		},
 			{
-			"heading": "Trails",
-			"filenames": ["rt_sp-2-01-almelo-station-tubbergen.gpx","rt_sp-2-03-ootmarsum-oldenzaal-station.gpx","rt_law-16-16-bemmel-de-pas-nijmegen-keizer-traianusplein.gpx"],
-			"labels": ["Almelo-Tubber","Ootmarsum-oldenzaal","Nijmegen"]
-		},
-			{
-			"heading": "Pieter Route",
-			"filenames": ["rt_Pieterpad-0km-238.gpx","rt_Pieterpad-238km-500.gpx","wpt_Pieterpad-0km-238.gpx","wpt_Pieterpad-238km-500.gpx"],
-			"labels": ["north half","south half","north","south"]
-		},
-			{
-			"heading": "other trips",
-			"filenames": ["20150711_Route.gpx","20150713_Route.gpx","sallanse-heuvelrug2016.gpx"],
-			"labels": ["11 W","13 W","SH"]
-		},
-			{
 			"heading": "POI",
 			"filenames": ["wpt_poi_east.gpx"],
 			"labels": ["wold"]
