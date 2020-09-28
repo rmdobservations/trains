@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>New north east</name>
+    <description/>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>NS Train Stations</name>
+      <Placemark>
+        <name>Winterswijk Railway Station</name>
+        <description>This is waypoint no: 0</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.71535,51.96782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Almelo Railway Station</name>
+        <description>This is waypoint no: 1</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.65492130000007,52.3573833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hengelo, Central Station</name>
+        <description>This is waypoint no: 2</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.79391899999996,52.262308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Enschede, Centraal Station</name>
+        <description>This is waypoint no: 3</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.88929200000007,52.221971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akkrum, Station</name>
+        <description>This is waypoint no: 4</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.84255499999995,53.047826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bad Bentheim</name>
+        <description>This is waypoint no: 6</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            7.15796569999998,52.3096758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bad Nieuweschans, Bahnhof</name>
+        <description>This is waypoint no: 7</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            7.20061269999997,53.1849978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Deventer Railway Station</name>
+        <description>This is waypoint no: 8</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.16068530000007,52.2570809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Emmerich</name>
+        <description>This is waypoint no: 9</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.25532529999998,51.8335437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Groningen Railway Station</name>
+        <description>This is waypoint no: 11</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.56409259999998,53.2109687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harlingen Haven</name>
+        <description>This is waypoint no: 12</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.41144940000004,53.1744115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hurdegaryp</name>
+        <description>This is waypoint no: 15</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.93489539999996,53.2189028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lelystad, Station Centrum</name>
+        <description>This is waypoint no: 16</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.47342630000003,52.5077951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leeuwarden</name>
+        <description>This is waypoint no: 17</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.79295590000004,53.1964738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leeuwarden Camminghaburen</name>
+        <description>This is waypoint no: 18</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.84260159999997,53.2021676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meppel, Station</name>
+        <description>This is waypoint no: 19</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.1972141,52.691393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nijmegen Central Station</name>
+        <description>This is waypoint no: 20</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.85370469999998,51.8435674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sneek Noord</name>
+        <description>This is waypoint no: 21</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.66286209999998,53.0400922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stavoren, Station</name>
+        <description>This is waypoint no: 22</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.35941200000002,52.886446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zutphen, Station</name>
+        <description>This is waypoint no: 24</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.19346999999993,52.144164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zwolle Station</name>
+        <description>This is waypoint no: 25</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.09095969999998,52.5054536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mantgum, Station</name>
+        <description>This is waypoint no: 26</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.71269099999995,53.129602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Franeker, Station</name>
+        <description>This is waypoint no: 27</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.54908799999998,53.182619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dronryp, Station</name>
+        <description>This is waypoint no: 28</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.63357300000007,53.177953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Deinum</name>
+        <description>This is waypoint no: 29</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.72818989999996,53.1887755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>De Westereen</name>
+        <description>This is waypoint no: 30</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.03507450000006,53.2482799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buitenpost</name>
+        <description>This is waypoint no: 31</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.14437120000002,53.2562763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grijpskerk</name>
+        <description>This is waypoint no: 32</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.31044259999999,53.2558488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zuidhorn railway station</name>
+        <description>This is waypoint no: 33</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.40707410000005,53.2479667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Groningen Europapark</name>
+        <description>This is waypoint no: 34</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.58566680000001,53.2048074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Martenshoek</name>
+        <description>This is waypoint no: 36</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.74027660000002,53.1607546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoogezand-Sappemeer</name>
+        <description>This is waypoint no: 37</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.77106500000002,53.1598342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Station Veendam</name>
+        <description>This is waypoint no: 38</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.88458360000004,53.103224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Emmen Zuid</name>
+        <description>This is waypoint no: 40</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.87420129999998,52.7488209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Station Assen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.56992420000006,52.9916731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Station Assen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.56992420000006,52.9916731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Steenwijk, Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.11801230000003,52.7906071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoogeveen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.47295310000004,52.7335134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kampen Zuid</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.91328169999997,52.5331243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holten</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.42143520000002,52.2840198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Enschede Railway Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.8903292,52.2223453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+       
+          <Placemark>
+        <name>Wolfheze</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+           5.79222, 52.00492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      
+          <Placemark>   
+        <name>Arnhem</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.89908, 51.98556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

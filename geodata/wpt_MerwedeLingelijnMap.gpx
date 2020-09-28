@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="KML2GPX.COM" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <name><![CDATA[MerwedeLingelijn Map]]></name>
+        <desc><![CDATA[]]></desc>
+                </metadata>
+
+                                                                                
+                <wpt lat="51.8304028" lon="4.83535719999998">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Hardinxveld-Giessendam]]></name>
+                    <cmt><![CDATA[Waypoint no: 1]]></cmt>
+                  <desc>MerwedeLingelijn</desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="51.8074746" lon="4.67004369999995">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Dordrecht, Centraal Station]]></name>
+                    <cmt><![CDATA[Waypoint no: 2]]></cmt>
+                     <desc>MerwedeLingelijn</desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="51.8323513" lon="4.87856980000004">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Boven-Hardinxveld]]></name>
+                    <cmt><![CDATA[Waypoint no: 3]]></cmt>
+                    <desc>MerwedeLingelijn</desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="51.8296609" lon="4.81555290000006">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Hardinxveld Blauwe Zoom]]></name>
+                    <cmt><![CDATA[Waypoint no: 4]]></cmt>
+                     <desc>MerwedeLingelijn</desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="51.881518" lon="5.27065300000004">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Geldermalsen, Station]]></name>
+                    <cmt><![CDATA[Waypoint no: 5]]></cmt>
+                    <desc>MerwedeLingelijn</desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="51.899317" lon="5.19611499999996">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Beesd, Station]]></name>
+                    <cmt><![CDATA[Waypoint no: 6]]></cmt>
+                    <desc>MerwedeLingelijn</desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="51.89431" lon="5.09259399999996">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Leerdam, Station Leerdam]]></name>
+                    <cmt><![CDATA[Waypoint no: 7]]></cmt>
+                    <desc>MerwedeLingelijn</desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="51.872008" lon="4.99368000000004">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Arkel, Station]]></name>
+                    <cmt><![CDATA[Waypoint no: 8]]></cmt>
+                    <desc>MerwedeLingelijn</desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="51.833598" lon="4.96741900000006">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Gorinchem]]></name>
+                    <cmt><![CDATA[Waypoint no: 9]]></cmt>
+                     <desc>MerwedeLingelijn</desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="51.829485" lon="4.776883">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Sliedrecht, Station]]></name>
+                    <cmt><![CDATA[Waypoint no: 10]]></cmt>
+                     <desc>MerwedeLingelijn</desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="51.8291235" lon="4.74274020000007">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Station Baanhoek West]]></name>
+                    <cmt><![CDATA[Waypoint no: 11]]></cmt>
+                    <desc>MerwedeLingelijn</desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="51.8020313" lon="4.71631720000005">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Dordrecht Stadspolders]]></name>
+                    <cmt><![CDATA[Waypoint no: 12]]></cmt>
+                    <desc>MerwedeLingelijn</desc>
+                </wpt>
+                                                            
+                    
+    
+</gpx>

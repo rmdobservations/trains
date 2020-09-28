@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="KML2GPX.COM" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <name><![CDATA[NS Train Stations]]></name>
+        <desc><![CDATA[]]></desc>
+                </metadata>
+
+                              <wpt lat="   52.047884    " lon="6.698423  ">
+                              
+                                                          <ele>0</ele>
+                    <name><![CDATA[Zwillbrocker Venn]]></name>
+                    <cmt><![CDATA[Waypoint no: 0]]></cmt>
+                    <desc><![CDATA[This is waypoint no: 0]]></desc>
+                </wpt>                   
+             
+                   <wpt lat="52.92996" lon=" 6.31356">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Drents-Friese Wold]]></name>
+                    <cmt><![CDATA[Waypoint no: 1]]></cmt>
+                    <desc><![CDATA[This is waypoint no: 1]]></desc>
+                </wpt>
+        ,
+</gpx>

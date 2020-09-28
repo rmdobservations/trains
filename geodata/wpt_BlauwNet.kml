@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>BlauwNet</name>
+    <description/>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>BlauwNet</name>
+      <Placemark>
+        <name>Ommen, Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.41739200000006,52.50998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marienberg, Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.57369399999993,52.509164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hardenberg, Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.62750299999993,52.572396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Almelo Railway Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.65492130000007,52.3573833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vroomshoop</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.56962569999996,52.4573594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Daarlerveen, Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.57588499999997,52.441722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Almelo de Riet</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.66663449999999,52.342239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Borne railway station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.748423,52.2995311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oldenzaal, Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.93494399999997,52.30658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glanerbrug</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.973882,52.218572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Emmen Zuid</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.87420129999998,52.7488209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Enschede, Centraal Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.88929200000007,52.221971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zutphen, Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.19346999999993,52.144164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hengelo, Central Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.79391899999996,52.262308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kampen, Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.92201350000005,52.5599651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zwolle Station
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.09095969999998,52.5054536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
