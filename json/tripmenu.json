@@ -9,8 +9,8 @@
 	"menuheading": [
 		{
 			"heading": "Trains",
-			"filenames": ["wpt_NewNorthEast.gpx","wpt_BlauwNet.gpx","wpt_MerwedeLingelijnMap.gpx","wpt_NS_Northwest.gpx"],
-			"labels": ["NS NE","BlaueNet","MerwedeLingelijn","NS NW"]
+			"filenames": ["wpt_NewNorthEast.gpx","wpt_BlauwNet.gpx"],
+			"labels": ["NS NE","BlaueNet"]
 		},
 		{
 			"heading": "Overnight",
