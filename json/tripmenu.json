@@ -3,7 +3,7 @@
 	"mapLabel": "14 september NOCACHE",
 	"basemap": "OSM", 
 	"mapCenterLonLat": [6.718139648437498,52.47357958606801],
-	"mapZoom": 9,
+	"mapZoom": 11,
 	"rootDataDirectory": "./geodata/",
 	"rootImageDirectory": "./images/",
 	"menuheading": [
@@ -20,7 +20,7 @@
 			{
 			"heading": "POI",
 			"filenames": ["wpt_poi_east.gpx"],
-			"labels": ["wold"]
+			"labels": ["east"]
 		}
 	]
 }
