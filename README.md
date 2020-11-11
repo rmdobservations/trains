@@ -1,6 +1,6 @@
 # Train Stations in Netherlands
   - - -
-##Plot train station locations on a map of the NL
+## Plot train station locations on a map of the NL
 	There are several train Networks in the Netherlands
 	* Blauwnet - Mostly in the east of NL
 	* Merwede Linge Lijn - Southwest of NL
