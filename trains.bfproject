@@ -9,6 +9,7 @@ autoindent: 1
 convertcolumn_horizontally: 0
 view_line_numbers: 1
 searchlist: head
+searchlist: table
 sync_include_hidden: 0
 snr_replacetype: 0
 bookmarks_filename_mode: 0
@@ -23,8 +24,8 @@ default_mime_type: text/plain
 c2e.IE_apos_workaround: 0
 recent_files: file:///home/rose/projects/github/trains/tripMap.html
 recent_files: file:///home/rose/projects/github/trains/json/tripmenu.json
-openfiles: /home/rose/projects/github/trains/json/tripmenu.json:627:210:0:
-openfiles: /home/rose/projects/github/trains/tripMap.html:63:0:1:
+openfiles: /home/rose/projects/github/trains/json/tripmenu.json:386:195:1:
+openfiles: /home/rose/projects/github/trains/tripMap.html:1061:635:0:
 openfiles: /home/rose/projects/github/trains/index.html:347:0:0:
 last_filefilter: 
 adv_open_matchname: 0
@@ -36,7 +37,7 @@ spell_insert_entities: 0
 htmlbar_thumbnailwidth: 300
 sync_delete_deprecated: 0
 fb_viewmode: 0
-ssearch_text: head
+ssearch_text: table
 recent_dirs: file:///home/rose
 recent_dirs: file:///home/rose/projects/github/trains
 view_blocks: 1
