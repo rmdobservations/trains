@@ -10,14 +10,14 @@
                                                           <ele>0</ele>
                     <name><![CDATA[Zwillbrocker Venn]]></name>
                     <cmt><![CDATA[Waypoint no: 0]]></cmt>
-                    <desc><![CDATA[This is waypoint no: 0]]></desc>
+                    <desc>poi</desc>
                 </wpt>                   
              
                    <wpt lat="52.92996" lon=" 6.31356">
                                                             <ele>0</ele>
                     <name><![CDATA[Drents-Friese Wold]]></name>
                     <cmt><![CDATA[Waypoint no: 1]]></cmt>
-                    <desc><![CDATA[This is waypoint no: 1]]></desc>
+                    <desc>poi</desc>
                 </wpt>
         ,
 </gpx>
