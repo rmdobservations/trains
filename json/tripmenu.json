@@ -3,7 +3,7 @@
 	"mapLabel": "14 september NOCACHE",
 	"basemap": "OSM", 
 	"mapCenterLonLat": [6.718139648437498,52.47357958606801],
-	"mapZoom": 11,
+	"mapZoom": 7,
 	"rootDataDirectory": "./geodata/",
 	"rootImageDirectory": "./images/",
 	"menuheading": [
