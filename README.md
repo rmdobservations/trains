@@ -19,8 +19,8 @@ A set of pull down menus will toggle visibility of stations.
  
 
 ## To be done:
-Some thoughts for improvement:
-	* It might be useful to distinguish intercity stations from locals. 
+	Some thoughts for improvement:
+		* Distinguish intercity stations from locals. 
 	
 	
 ## Links
